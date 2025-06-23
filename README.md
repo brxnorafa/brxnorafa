@@ -7,6 +7,6 @@ Currently pursuing a Technologist Degree in Systems Analysis and Development at 
 Reach me out here: [b.rafaelgon@outlook.com](mailto:b.rafaelgon@outlook.com)
 
 ---
-Stacks
+# Stacks
 [![Stacks](https://skillicons.dev/icons?i=py,nodejs,react,tailwind,git,firebase,mysql)](https://skillicons.dev)
 ---
