@@ -9,5 +9,5 @@ Reach me out here: [b.rafaelgon@outlook.com](mailto:b.rafaelgon@outlook.com)
 
 ---
 # Stacks
-[![Stacks](https://skillicons.dev/icons?i=py,nodejs,react,tailwind,git,firebase,mysql)](https://skillicons.dev)
+[![Stacks](https://skillicons.dev/icons?i=py,nodejs,express,react,tailwind,git,firebase,mysql,ts,php)](https://skillicons.dev)
 ---
