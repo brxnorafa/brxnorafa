@@ -1,13 +1,32 @@
 # 👨🏻‍💻 Bruno Rafael Silva Gonçalves
 
-`FullStack & Mobile Developer` | `Embbed Systems Developer in AGTechnik`
+`FullStack & Mobile Developer` | `Embedded Systems Developer @AGTechnik`
 
-Currently pursuing a Technologist Degree in Systems Analysis and Development at Universidade Paulista.
-Passionate about programming since a young age and already graduated from a Technical Course in Systems Development.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na **Universidade Paulista**  
+📚 Formado como Técnico em Desenvolvimento de Sistemas  
 
-Reach me out here: [b.rafaelgon@outlook.com](mailto:b.rafaelgon@outlook.com)
+
+📬 **Contato:** [b.rafaelgon@outlook.com](mailto:b.rafaelgon@outlook.com)
 
 ---
-# Stacks
+
+## 🚀 Tech Stacks
+
 [![Stacks](https://skillicons.dev/icons?i=py,nodejs,express,react,tailwind,git,firebase,mysql,ts,php)](https://skillicons.dev)
+
+
+## 📈 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Batidas-DG](https://github.com/brxnorafa/batidas-dg) | Sistema de pedidos para bar, com controle de estoque, automações e relatórios | React, PHP, MySQL |
+
 ---
+
+## 💬 Idiomas
+
+- Português 🇧🇷 (Nativo)
+- Inglês 🇺🇸 (Intermediário)
+
+---
+
